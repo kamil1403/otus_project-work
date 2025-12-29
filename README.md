@@ -2,7 +2,7 @@
   <img src="[https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)" alt="WordPress Cluster" width="120">
 </p>
 
-## ![Lesson](https://img.shields.io/badge/Lesson-WordPress_High_Availability-00758F?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827)![Author](https://img.shields.io/badge/Author-Ваше_Имя-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)![Date](https://img.shields.io/badge/Date-29.12.2025-F59E0B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=111827)
+## ![Lesson](https://img.shields.io/badge/Lesson-otus project work-00758F?style=for-the-badge&logo=linux&logoColor=white&labelColor=111827)![Author](https://img.shields.io/badge/Author-Kamil%20Ibragimov-10B981?style=for-the-badge&logo=github&logoColor=white&labelColor=111827)![Date](https://img.shields.io/badge/Date-29.12.2025-F59E0B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=111827)
 
 ### 📌 Задание
 1. Развернуть отказоустойчивый веб-кластер для WordPress на 6 ВМ.
